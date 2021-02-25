@@ -8,7 +8,7 @@ make sure [python](https://www.python.org/downloads/) is installed
 
 use the package manager [pip](https://pip.pypa.io/en/stable/) to install needed packages
 
-```bash
+```
 pip install random
 pip install requests
 pip install string
